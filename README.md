@@ -1,4 +1,4 @@
-![logo] [
+![logo](https://github.com/Archu0102/Archu0102/blob/main/conding%20photo.jpg)
 <h1 align="center">Hi 👋, I'm Archana Kumari</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
